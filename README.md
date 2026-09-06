@@ -1,8 +1,20 @@
-# FlowDay 📅
+# FlowDay
 
-> Your routine, your habits, and your life path — all in one app.
+<p align="left">
+  <strong>Offline-First Cross-Platform Productivity Suite & Habit Architecture</strong><br>
+  Engineered by <a href="https://github.com/iamhuitron"><strong>Ian Miguel Delgado Huitrón</strong></a> · Co-Founder at <a href="https://github.com/Xaol-Studio"><strong>@Xaol-Studio</strong></a>
+</p>
 
-Mobile and web app built with **React Native + Expo**, inspired by TimeTune but with built-in long-term goal tracking.
+<p align="left">
+  <a href="https://flowday-rho.vercel.app/"><img src="https://img.shields.io/badge/Web_Demo-flowday--rho.vercel.app-059669?style=flat-square&logo=vercel&logoColor=white" alt="Web Demo" /></a>
+  <a href="https://github.com/iamhuitron"><img src="https://img.shields.io/badge/Author-@iamhuitron-1e293b?style=flat-square&logo=github&logoColor=white" alt="Author" /></a>
+  <a href="https://github.com/Xaol-Studio"><img src="https://img.shields.io/badge/Studio-@Xaol--Studio-059669?style=flat-square&logo=github&logoColor=white" alt="Studio" /></a>
+  <img src="https://img.shields.io/badge/React_Native-Expo_SDK_52-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Expo SDK 52" />
+  <img src="https://img.shields.io/badge/Storage-MMKV_(Sub--ms)-blue?style=flat-square" alt="MMKV" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-emerald?style=flat-square" alt="License" /></a>
+</p>
+
+> **Your routine, your habits, and your life path — all in one offline-first application.** Mobile and web application built with **React Native + Expo (SDK 52, New Architecture)**, featuring sub-millisecond MMKV persistence and automated signed APK delivery via GitHub Actions.
 
 ---
 
